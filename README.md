@@ -142,6 +142,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 ## Remote
 
+* [Remote Marketer Jobs](https://remotemarketerjobs.com)
 * [Career Vault](https://careervault.io/)
 * [Remotebond](https://remotebond.com/)
 * [Jobspresso](https://jobspresso.co/remote-work/)
